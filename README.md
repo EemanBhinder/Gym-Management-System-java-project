@@ -3,11 +3,8 @@ Gym management system is a java based project with command line interface (CLI) 
 
 **Team Members**
 
-
 Eeman Basharat
 
-
 Kashif Kazmi
-
 
 Wajahat Ali Tahir
